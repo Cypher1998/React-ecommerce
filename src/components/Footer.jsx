@@ -5,6 +5,9 @@ import {
   FaLinkedin,
   FaSlack,
 } from 'react-icons/fa';
+import FooterItem from './atoms/FooterItem';
+import React from 'react';
+
 const Footer = () => {
   return (
     <footer>
@@ -35,15 +38,9 @@ const Footer = () => {
             </div>
           </div>
           <div className="social-media">
-            <a href="https://www.github.com">
-              <FaGithub style={iconStyle} />
-            </a>
-            <a href="https://www.linkedin.com">
-              <FaLinkedin style={iconStyle} />
-            </a>
-            <a href="https://www.slack.com">
-              <FaSlack style={iconStyle} />
-            </a>
+            <FooterItem icon={<FaGithub style={iconStyle} />} href='https://www.github.com' />
+            <FooterItem icon={<FaLinkedin style={iconStyle} />} href='https://www.linkedin.com' />
+            <FooterItem icon={<FaSlack style={iconStyle} />} href='https://www.slack.com' />
           </div>
         </div>
         <h2>React ecommerce &copy; 2022</h2>
