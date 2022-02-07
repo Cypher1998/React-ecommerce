@@ -1,6 +1,6 @@
 import React from 'react';
-import ProductMenuItem from './atoms/ProductMenuItem';
-import { products } from '../utils/products';
+import ProductMenuItem from '../atoms/ProductMenuItem';
+import { products } from '../../utils/products';
 
 const ProductMenu = ({setText, setFilterText}) => (
     <div className="buttons">

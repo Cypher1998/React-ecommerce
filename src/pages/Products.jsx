@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import { useParams, Link, useLocation } from 'react-router-dom';
-import ProductMenu from '../components/ProductMenu';
-import ProductHeader from '../components/ProductHeader';
-import ProductBody from '../components/ProductBody';
+import ProductMenu from '../components/molecules/ProductMenu';
+import ProductHeader from '../components/molecules/ProductHeader';
+import ProductBody from '../components/molecules/ProductBody';
 import Container from '../components/layout/Container';
 
 const Products = () => {
@@ -26,7 +26,6 @@ const Products = () => {
 
   fetchDataWithText.current = async () => {
     const response = await axios.get(`store/${text}.json`);
-    // window.history.replaceState(null, '', `${text}`);
     setData(response.data);
     setLoading(false);
   };

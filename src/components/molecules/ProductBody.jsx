@@ -1,5 +1,5 @@
 import React from 'react';
-import Spinner from './Spinner';
+import Spinner from '../atoms/Spinner';
 import RealTimeProducts from './RealTimeProducts';
 
 const ProductBody = ({ loading, filterText, filteredItems, data, text }) => (

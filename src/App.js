@@ -1,9 +1,9 @@
 import './App.css';
-import Navbar from './components/Navbar';
+import Navbar from './components/molecules/Navbar';
 import Home from './pages/Home';
 import Products from './pages/Products';
 import ProductDisplay from './pages/ProductDisplay';
-import Footer from './components/Footer';
+import Footer from './components/molecules/Footer/Footer';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {

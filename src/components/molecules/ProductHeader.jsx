@@ -1,5 +1,5 @@
 import React from 'react';
-import { getDay } from '../utils/day';
+import { getDay } from '../../utils/day';
 import SearchBox from './SearchBox';
 
 const ProductHeader = ({ location, filterText, handleFilter }) => (

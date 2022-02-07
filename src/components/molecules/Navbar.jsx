@@ -1,6 +1,6 @@
 import { FaShoppingCart } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import logo from '../assets/brand.jpeg';
+import logo from '../../assets/brand.jpeg';
 
 const Navbar = () => {
   return (

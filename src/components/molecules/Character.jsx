@@ -1,8 +1,8 @@
 import React from 'react';
 import { FaShuttleVan, FaUserCheck } from 'react-icons/fa';
 import { MdMoneyOff } from 'react-icons/md';
-import Box from './atoms/Box';
-import { DUMMY_TEXT } from '../utils/constants';
+import Box from '../atoms/Box';
+import { DUMMY_TEXT } from '../../utils/constants';
 
 const Character = () => {
   return (

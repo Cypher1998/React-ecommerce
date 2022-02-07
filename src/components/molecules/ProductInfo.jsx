@@ -1,5 +1,5 @@
-import { products } from '../utils/products';
-import ProductItem from './atoms/ProductItem';
+import { products } from '../../utils/products';
+import ProductItem from '../atoms/ProductItem';
 
 const ProductInfo = () => {
   return (
