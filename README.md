@@ -18,4 +18,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `Details`
 
-The project is a e-commerce website built with React.
+The project is an e-commerce website built with React.
