@@ -1,6 +1,6 @@
-import Display from '../components/Display';
-import ProductInfo from '../components/ProductInfo';
-import Character from '../components/Character';
+import Display from '../components/molecules/Display';
+import ProductInfo from '../components/molecules/ProductInfo';
+import Character from '../components/molecules/Character';
 
 const Home = () => {
   return (

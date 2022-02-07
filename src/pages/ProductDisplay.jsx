@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { products } from '../assets/AllProducts';
-import Spinner from '../components/Spinner';
+import Spinner from '../components/atoms/Spinner';
 import { useParams, useNavigate } from 'react-router-dom';
 import { FaCartPlus } from 'react-icons/fa';
 
