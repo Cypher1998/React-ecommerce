@@ -1,0 +1,87 @@
+[
+  {
+    "id": 33,
+    "name": "duo black/green headset",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere illum numquam repellendus ",
+    "price": 25,
+    "discount": 10,
+    "image_url": "../assets/headset/1.jpg"
+  },
+  {
+    "id": 34,
+    "name": "black headset",
+    "description": "excepturi quas, reprehenderit facere quam error, vel quis maxime minus ipsam rerum fugiat",
+    "price": 11,
+    "discount": 12,
+    "image_url": "../assets/headset/2.jpg"
+  },
+  {
+    "id": 35,
+    "name": "duo purple-blue headset",
+    "description": "Iure repellat saepe esse harum sit quos exercitationem blanditiis tenetur omnis non ",
+    "price": 22,
+    "discount": 16,
+    "image_url": "../assets/headset/3.jpeg"
+  },
+  {
+    "id": 36,
+    "name": "thicker duo headset",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 30,
+    "discount": 19,
+    "image_url": "../assets/headset/4.jpeg"
+  },
+  {
+    "id": 37,
+    "name": "light weight headset",
+    "description": "Quis cumque quo commodi repellat corporis dignissimos. Fugit, totam eveniet",
+    "price": 15,
+    "image_url": "../assets/headset/5.jpg"
+  },
+  {
+    "id": 38,
+    "name": "duo b/w headset",
+    "description": " Provident tenetur sequi harum nam, consequuntur quod vitae",
+    "price": 18,
+    "discount": 6,
+    "image_url": "../assets/headset/6.jpeg"
+  },
+  {
+    "id": 39,
+    "name": "duo blue/white headset",
+    "description": "veritatis nobis, voluptates accusamus! praesentium illum officiis illo autem quas eligendi",
+    "price": 21,
+    "image_url": "../assets/headset/7.jpeg"
+  },
+  {
+    "id": 40,
+    "name": "light red-black headset",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 14,
+    "discount": 15,
+    "image_url": "../assets/headset/8.jpeg"
+  },
+  {
+    "id": 41,
+    "name": "big ear headset",
+    "description": "Temporibus, quaerat vel repudiandae accusantium recusandae, magnam omnis neque, quidem facere",
+    "price": 13,
+    "image_url": "../assets/headset/9.jpeg"
+  },
+  {
+    "id": 42,
+    "name": "duo blue headset",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 19,
+    "discount": 10,
+    "image_url": "../assets/headset/10.jpeg"
+  },
+  {
+    "id": 43,
+    "name": "thin body headset",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 12,
+    "discount": 15,
+    "image_url": "../assets/headset/11.jpeg"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": 22,
+    "name": "amygdala earpiece",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere illum numquam repellendus ",
+    "price": 8,
+    "discount": 15,
+    "image_url": "../assets/earpiece/1.jpg"
+  },
+  {
+    "id": 23,
+    "name": "micro ear bluetooth",
+    "description": "excepturi quas, reprehenderit facere quam error, vel quis maxime minus ipsam rerum fugiat",
+    "price": 15,
+    "discount": 30,
+    "image_url": "../assets/earpiece/2.jpg"
+  },
+  {
+    "id": 24,
+    "name": "curved bleutooth",
+    "description": "Iure repellat saepe esse harum sit quos exercitationem blanditiis tenetur omnis non ",
+    "price": 6,
+    "discount": 8,
+    "image_url": "../assets/earpiece/3.jpg"
+  },
+  {
+    "id": 25,
+    "name": "oneEar black earpiece",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 4,
+    "discount": 5,
+    "image_url": "../assets/earpiece/4.jpeg"
+  },
+  {
+    "id": 26,
+    "name": "grey earpiece",
+    "description": "Quis cumque quo commodi repellat corporis dignissimos. Fugit, totam eveniet",
+    "price": 2,
+    "image_url": "../assets/earpiece/5.jpg"
+  },
+  {
+    "id": 27,
+    "name": "red & rose gold earpiece",
+    "description": " Provident tenetur sequi harum nam, consequuntur quod vitae",
+    "price": 3,
+    "discount": 6,
+    "image_url": "../assets/earpiece/6.jpeg"
+  },
+  {
+    "id": 28,
+    "name": "grey earpiece",
+    "description": "veritatis nobis, voluptates accusamus! praesentium illum officiis illo autem quas eligendi",
+    "price": 4,
+    "discount": 4,
+    "image_url": "../assets/earpiece/7.jpeg"
+  },
+  {
+    "id": 29,
+    "name": "sil black earpiece",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 5,
+    "discount": 2,
+    "image_url": "../assets/earpiece/8.jpeg"
+  },
+  {
+    "id": 30,
+    "name": "double B/W earpiece",
+    "description": "Temporibus, quaerat vel repudiandae accusantium recusandae, magnam omnis neque, quidem facere",
+    "price": 6,
+    "discount": 15,
+    "image_url": "../assets/earpiece/9.jpeg"
+  },
+  {
+    "id": 31,
+    "name": "oneEar white earpiece",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 3,
+    "discount": 13,
+    "image_url": "../assets/earpiece/10.jpeg"
+  },
+  {
+    "id": 32,
+    "name": "yellow head bluetooth",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 7,
+    "image_url": "../assets/earpiece/11.jpeg"
+  }
+]

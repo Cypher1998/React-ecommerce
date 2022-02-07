@@ -1,0 +1,88 @@
+[
+  {
+    "id": 44,
+    "name": "silver black-face watch",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere illum numquam repellendus ",
+    "price": 35,
+    "discount": 10,
+    "image_url": "../assets/mens-watch/1.jpg"
+  },
+  {
+    "id": 45,
+    "name": "blue face and leather watch",
+    "description": "excepturi quas, reprehenderit facere quam error, vel quis maxime minus ipsam rerum fugiat",
+    "price": 42,
+    "discount": 12,
+    "image_url": "../assets/mens-watch/2.jpg"
+  },
+  {
+    "id": 46,
+    "name": "rose gold body brown leather",
+    "description": "Iure repellat saepe esse harum sit quos exercitationem blanditiis tenetur omnis non ",
+    "price": 32,
+    "image_url": "../assets/mens-watch/3.jpg"
+  },
+  {
+    "id": 47,
+    "name": "black chain watch",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 38,
+    "discount": 14,
+    "image_url": "../assets/mens-watch/4.jpeg"
+  },
+  {
+    "id": 48,
+    "name": "gold chain yellow face watch",
+    "description": "Quis cumque quo commodi repellat corporis dignissimos. Fugit, totam eveniet",
+    "price": 50,
+    "discount": 25,
+    "image_url": "../assets/mens-watch/5.jpeg"
+  },
+  {
+    "id": 49,
+    "name": "dark brown black face watch",
+    "description": " Provident tenetur sequi harum nam, consequuntur quod vitae",
+    "price": 28,
+    "discount": 6,
+    "image_url": "../assets/mens-watch/6.jpeg"
+  },
+  {
+    "id": 50,
+    "name": "MWT with hand chain",
+    "description": "veritatis nobis, voluptates accusamus! praesentium illum officiis illo autem quas eligendi",
+    "price": 43,
+    "discount": 5,
+    "image_url": "../assets/mens-watch/7.jpeg"
+  },
+  {
+    "id": 51,
+    "name": "silver thin-gold watch",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 35,
+    "discount": 12,
+    "image_url": "../assets/mens-watch/8.jpg"
+  },
+  {
+    "id": 52,
+    "name": "black face light leather watch",
+    "description": "Temporibus, quaerat vel repudiandae accusantium recusandae, magnam omnis neque, quidem facere",
+    "price": 35,
+    "image_url": "../assets/mens-watch/9.jpeg"
+  },
+  {
+    "id": 53,
+    "name": "light brown leather exotic watch",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 38,
+    "discount": 12,
+    "image_url": "../assets/mens-watch/10.jpeg"
+  },
+  {
+    "id": 54,
+    "name": "brown leather watch",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 30,
+    "discount": 20,
+    "image_url": "../assets/mens-watch/11.jpeg"
+  }
+]

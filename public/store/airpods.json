@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "mixed-airpod-abc",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere illum numquam repellendus ",
+    "price": 55,
+    "discount": 15,
+    "image_url": "../assets/airpod/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "airpod-def-mix",
+    "description": "excepturi quas, reprehenderit facere quam error, vel quis maxime minus ipsam rerum fugiat",
+    "price": 45,
+    "discount": 17,
+    "image_url": "../assets/airpod/2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "airpod-color-black",
+    "description": "Iure repellat saepe esse harum sit quos exercitationem blanditiis tenetur omnis non ",
+    "price": 60,
+    "discount": 7,
+    "image_url": "../assets/airpod/3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "airpod-b/w-mix",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 50,
+    "discount": 16,
+    "image_url": "../assets/airpod/4.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "airpod-coloured",
+    "description": "Quis cumque quo commodi repellat corporis dignissimos. Fugit, totam eveniet",
+    "price": 40,
+    "image_url": "../assets/airpod/5.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "creamy airpod",
+    "description": " Provident tenetur sequi harum nam, consequuntur quod vitae",
+    "price": 58,
+    "discount": 6,
+    "image_url": "../assets/airpod/6.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "grey airpod",
+    "description": "veritatis nobis, voluptates accusamus! praesentium illum officiis illo autem quas eligendi",
+    "price": 70,
+    "discount": 4,
+    "image_url": "../assets/airpod/7.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "jet black airpod",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 55,
+    "discount": 12,
+    "image_url": "../assets/airpod/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "multi color airpod",
+    "description": "Temporibus, quaerat vel repudiandae accusantium recusandae, magnam omnis neque, quidem facere",
+    "price": 65,
+    "image_url": "../assets/airpod/9.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "oneEar airpod",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 20,
+    "discount": 13,
+    "image_url": "../assets/airpod/10.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "airpod white",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 65,
+    "discount": 5,
+    "image_url": "../assets/airpod/11.jpeg"
+  }
+]

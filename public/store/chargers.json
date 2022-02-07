@@ -1,0 +1,79 @@
+[
+  {
+    "id": 12,
+    "name": "2T black charger",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere illum numquam repellendus ",
+    "price": 5,
+    "discount": 10,
+    "image_url": "../assets/charger/1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "3M black charger",
+    "description": "excepturi quas, reprehenderit facere quam error, vel quis maxime minus ipsam rerum fugiat",
+    "price": 6,
+    "image_url": "../assets/charger/2.jpg"
+  },
+  {
+    "id": 14,
+    "name": "tecno charger head",
+    "description": "Iure repellat saepe esse harum sit quos exercitationem blanditiis tenetur omnis non ",
+    "price": 4,
+    "discount": 16,
+    "image_url": "../assets/charger/3.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "laptop charger",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 17,
+    "discount": 19,
+    "image_url": "../assets/charger/4.jpg"
+  },
+  {
+    "id": 16,
+    "name": "GHT Laptop Charger",
+    "description": "Quis cumque quo commodi repellat corporis dignissimos. Fugit, totam eveniet",
+    "price": 22,
+    "image_url": "../assets/charger/5.jpg"
+  },
+  {
+    "id": 17,
+    "name": "laptop powerbank",
+    "description": " Provident tenetur sequi harum nam, consequuntur quod vitae",
+    "price": 30,
+    "discount": 6,
+    "image_url": "../assets/charger/6.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "3T white charger",
+    "description": "veritatis nobis, voluptates accusamus! praesentium illum officiis illo autem quas eligendi",
+    "price": 8,
+    "discount": 7,
+    "image_url": "../assets/charger/7.jpg"
+  },
+  {
+    "id": 19,
+    "name": "2HT Tecno Charger",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 4,
+    "discount": 12,
+    "image_url": "../assets/charger/8.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "2H tecno charger",
+    "description": "Temporibus, quaerat vel repudiandae accusantium recusandae, magnam omnis neque, quidem facere",
+    "price": 6,
+    "image_url": "../assets/charger/9.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "multi-cord header",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 3,
+    "discount": 25,
+    "image_url": "../assets/charger/10.jpg"
+  }
+]

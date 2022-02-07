@@ -1,0 +1,64 @@
+[
+  {
+    "id": 55,
+    "name": "NAG powerbank 20000mah",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere illum numquam repellendus ",
+    "price": 30,
+    "discount": 10,
+    "image_url": "../assets/powerbank/1.jpg"
+  },
+  {
+    "id": 56,
+    "name": "MFA powerbank 15000mah",
+    "description": "excepturi quas, reprehenderit facere quam error, vel quis maxime minus ipsam rerum fugiat",
+    "price": 18,
+    "discount": 14,
+    "image_url": "../assets/powerbank/2.jpeg"
+  },
+  {
+    "id": 57,
+    "name": "BIXON torch powerbank 30000mah",
+    "description": "Iure repellat saepe esse harum sit quos exercitationem blanditiis tenetur omnis non ",
+    "price": 35,
+    "discount": 20,
+    "image_url": "../assets/powerbank/3.jpg"
+  },
+  {
+    "id": 58,
+    "name": "mini GTH powerbank 5000mah",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 9,
+    "discount": 25,
+    "image_url": "../assets/powerbank/4.jpg"
+  },
+  {
+    "id": 59,
+    "name": "BYH black powerbank 10000mah",
+    "description": "Quis cumque quo commodi repellat corporis dignissimos. Fugit, totam eveniet",
+    "price": 14,
+    "discount": 22,
+    "image_url": "../assets/powerbank/6.jpeg"
+  },
+  {
+    "id": 60,
+    "name": "UHT red-plated powerbank 15000mah",
+    "description": " Provident tenetur sequi harum nam, consequuntur quod vitae",
+    "price": 18,
+    "image_url": "../assets/powerbank/8.jpeg"
+  },
+  {
+    "id": 61,
+    "name": "MWT orange-plated powerbank 12000mah",
+    "description": "veritatis nobis, voluptates accusamus! praesentium illum officiis illo autem quas eligendi",
+    "price": 17,
+    "discount": 16,
+    "image_url": "../assets/powerbank/9.jpeg"
+  },
+  {
+    "id": 62,
+    "name": "BHT white-body powerbank 20000mah",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 32,
+    "image_url": "../assets/powerbank/10.jpg"
+  }
+]

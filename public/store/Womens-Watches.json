@@ -1,0 +1,103 @@
+[
+  {
+    "id": 63,
+    "name": "black-face and body watch",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere illum numquam repellendus ",
+    "price": 19,
+    "discount": 10,
+    "image_url": "../assets/womens-watch/1.jpg"
+  },
+  {
+    "id": 64,
+    "name": "black face rose gold watch",
+    "description": "excepturi quas, reprehenderit facere quam error, vel quis maxime minus ipsam rerum fugiat",
+    "price": 32,
+    "discount": 12,
+    "image_url": "../assets/womens-watch/2.jpg"
+  },
+  {
+    "id": 65,
+    "name": "GBY rough brown leather",
+    "description": "Iure repellat saepe esse harum sit quos exercitationem blanditiis tenetur omnis non ",
+    "price": 12,
+    "image_url": "../assets/womens-watch/3.jpg"
+  },
+  {
+    "id": 66,
+    "name": "black face leather watch",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 25,
+    "discount": 18,
+    "image_url": "../assets/womens-watch/4.jpeg"
+  },
+  {
+    "id": 67,
+    "name": "light greenleather WF watch",
+    "description": "Quis cumque quo commodi repellat corporis dignissimos. Fugit, totam eveniet",
+    "price": 18,
+    "discount": 8,
+    "image_url": "../assets/womens-watch/5.jpeg"
+  },
+  {
+    "id": 68,
+    "name": "rose gold BFW watch",
+    "description": " Provident tenetur sequi harum nam, consequuntur quod vitae",
+    "price": 38,
+    "discount": 16,
+    "image_url": "../assets/womens-watch/6.jpeg"
+  },
+  {
+    "id": 69,
+    "name": "rebeccapurple leather watch",
+    "description": "veritatis nobis, voluptates accusamus! praesentium illum officiis illo autem quas eligendi",
+    "price": 23,
+    "discount": 14,
+    "image_url": "../assets/womens-watch/7.jpeg"
+  },
+  {
+    "id": 70,
+    "name": "dark pink duo face watch",
+    "description": "reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam",
+    "price": 22,
+    "discount": 12,
+    "image_url": "../assets/womens-watch/8.jpeg"
+  },
+  {
+    "id": 71,
+    "name": "small sapphire faced leather watch",
+    "description": "Temporibus, quaerat vel repudiandae accusantium recusandae, magnam omnis neque, quidem facere",
+    "price": 32,
+    "image_url": "../assets/womens-watch/9.jpeg"
+  },
+  {
+    "id": 72,
+    "name": "soft gold exotic watch",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 38,
+    "discount": 12,
+    "image_url": "../assets/womens-watch/10.jpeg"
+  },
+  {
+    "id": 73,
+    "name": "thin chain love face watch",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 30,
+    "discount": 30,
+    "image_url": "../assets/womens-watch/11.jpeg"
+  },
+  {
+    "id": 74,
+    "name": "white leather watch",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 27,
+    "discount": 20,
+    "image_url": "../assets/womens-watch/12.jpeg"
+  },
+  {
+    "id": 75,
+    "name": "chain black face RTY watch",
+    "description": "Deleniti, reiciendis similique. Saepe nemo sequi totam sit, eligendi porro eius neque at",
+    "price": 30,
+    "image_url": "../assets/womens-watch/13.jpeg"
+  }
+]
