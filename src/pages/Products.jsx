@@ -60,9 +60,19 @@ const Products = () => {
     <main>
       <section className="display-items">
         <Container>
-          <ProductHeader handleFilter={handleFilter} filterText={filterText} location={location} />
+          <ProductHeader
+            handleFilter={handleFilter}
+            filterText={filterText}
+            location={location}
+          />
           <ProductMenu setText={setText} setFilterText={setFilterText} />
-          <ProductBody loading={loading} text={text} data={data} filterText={filterText} filteredItems={filteredItems} />
+          <ProductBody
+            loading={loading}
+            text={text}
+            data={data}
+            filterText={filterText}
+            filteredItems={filteredItems}
+          />
         </Container>
         <Container>
           <Link to="/" className="go-back">

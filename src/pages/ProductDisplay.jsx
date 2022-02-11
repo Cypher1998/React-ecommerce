@@ -3,8 +3,9 @@ import { products } from '../assets/AllProducts';
 import Spinner from '../components/atoms/Spinner';
 import { useParams, useNavigate } from 'react-router-dom';
 import { FaCartPlus } from 'react-icons/fa';
+import { toast } from 'react-toastify';
 
-const ProductDisplay = () => {
+const ProductDisplay = ({ cartNum, setCartNum }) => {
   const [product, setProduct] = useState(null);
   const { items, item } = useParams();
   const navigate = useNavigate();
@@ -21,8 +22,18 @@ const ProductDisplay = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  const addItemToCart = () => {
+    setCartNum((prevState) => [...prevState, product]);
+
+    toast.success('Item Updated in cart');
+  };
+
   if (product === null) {
-    return <Spinner />;
+    return (
+      <div className="product-spinner">
+        <Spinner />;
+      </div>
+    );
   } else {
     const { name, price, discount, description, image_url } = product;
 
@@ -54,7 +65,7 @@ const ProductDisplay = () => {
             </div>
           </div>
           <div className="add-btn">
-            <button>
+            <button onClick={addItemToCart}>
               <FaCartPlus size={22} />
               <p>Add To Cart</p>
             </button>

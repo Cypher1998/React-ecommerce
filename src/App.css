@@ -66,6 +66,18 @@ nav .brand {
   margin-right: 2px;
 }
 
+nav .cart-number {
+  background: rgb(231, 75, 50);
+  font-weight: bold;
+  text-align: center;
+  padding: 0.05rem 0.35rem;
+  border-radius: 50%;
+  position: absolute;
+  top: -3px;
+  left: 18px;
+  box-shadow: -2px 1px 3px 2px rgba(0, 0, 0, 0.5);
+}
+
 /* HOME-section one - background */
 section.background {
   background: url('assets/page.jpeg') -10px 3px/ 520px 350px;
@@ -279,6 +291,7 @@ section.display-items {
 
 .display-items .buttons h3 {
   font-size: 0.85rem;
+  text-transform: capitalize;
 }
 
 .display-items .buttons a {
@@ -539,6 +552,13 @@ section.product-page {
 .add-btn button p {
   flex-basis: 100%;
   letter-spacing: 1px;
+}
+
+.product-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 /* footer */

@@ -8,44 +8,17 @@ import wwatch from '../assets/wat2.jpg';
 import allproducts from '../assets/page.jpeg';
 
 export const products = [
-    {
-        url: '/All-Products',
-        image: allproducts,
-        title: 'all products',
-    },
-    {
-        url: '/airpods',
-        image: airpod,
-        title: 'airpods',
-    },
-    {
-        url: '/bluetooths',
-        image: bluetooth,
-        title: 'bluetooths',
-    },
-    {
-        url: '/chargers',
-        image: charger,
-        title: 'chargers',
-    },
-    {
-        url: '/headsets',
-        image: headset,
-        title: 'headsets',
-    },
-    {
-        url: '/Mens-Watches',
-        image: mwatch,
-        title: 'men\'s watches',
-    },
-    {
-        url: '/powerbanks',
-        image: powerbank,
-        title: 'powerbanks',
-    },
-    {
-        url: '/Womens-Watches',
-        image: wwatch,
-        title: 'women\'s watches',
-    },
+  { id: 1, url: '/All-Products', image: allproducts, title: 'all products' },
+  { id: 2, url: '/airpods', image: airpod, title: 'airpods' },
+  { id: 3, url: '/bluetooths', image: bluetooth, title: 'bluetooths' },
+  { id: 4, url: '/chargers', image: charger, title: 'chargers' },
+  { id: 5, url: '/headsets', image: headset, title: 'headsets' },
+  { id: 6, url: '/Mens-Watches', image: mwatch, title: "men's watches" },
+  { id: 7, url: '/powerbanks', image: powerbank, title: 'powerbanks' },
+  {
+    id: 8,
+    url: '/Womens-Watches',
+    image: wwatch,
+    title: "women's watches",
+  },
 ];

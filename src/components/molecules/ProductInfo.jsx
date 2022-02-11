@@ -13,8 +13,8 @@ const ProductInfo = () => {
         </p>
       </div>
       <div className="container sub-container">
-        {products.map(({ image, title, url }) => (
-            <ProductItem image={image} title={title} url={url}  />
+        {products.map(({ id, image, title, url }) => (
+          <ProductItem key={id} image={image} title={title} url={url} />
         ))}
       </div>
     </section>
