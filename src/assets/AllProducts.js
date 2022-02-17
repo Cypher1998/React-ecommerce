@@ -535,7 +535,7 @@ export const products = [
     description:
       'reiciendis laudantium exercitationem vitae rerum, incidunt voluptatum, quos aliquam',
     price: 32,
-    image_url: '../assets/powpowerbank/10.jpg',
+    image_url: '../assets/powerbank/10.jpg',
   },
   {
     id: 63,

@@ -5,6 +5,10 @@ import logo from '../../assets/brand.jpeg';
 const Navbar = ({ cartNumber }) => {
   const navigate = useNavigate();
 
+  const quantity = cartNumber.reduce((total, cart) => {
+    return total + cart.quantity;
+  }, 0);
+
   const goToCart = () => {
     navigate('/cart');
   };
@@ -21,7 +25,7 @@ const Navbar = ({ cartNumber }) => {
       >
         <FaShoppingCart size="30px" />
         {cartNumber.length > 0 && (
-          <span className="cart-number">{cartNumber.length}</span>
+          <span className="cart-number">{quantity}</span>
         )}
       </div>
     </nav>

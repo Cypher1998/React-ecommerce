@@ -1,8 +1,6 @@
-import { Link, useLocation } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const Product = ({ product }) => {
-  const { pathname } = useLocation();
-
   const { id, name, price, discount, image_url } = product;
 
   const calculatedPrice = price - (discount / 100) * price;
@@ -11,7 +9,7 @@ const Product = ({ product }) => {
   return (
     <>
       <article className="one-item">
-        <Link to={`${pathname}/${id}`}>
+        <Link to={`/products/${id}`}>
           <img src={image_url} alt="item..." />
           {discount && <span>{discount}%</span>}
           <p>{name}</p>

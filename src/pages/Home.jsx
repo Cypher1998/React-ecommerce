@@ -3,7 +3,6 @@ import ProductInfo from '../components/molecules/ProductInfo';
 import Character from '../components/molecules/Character';
 
 const Home = () => {
-
   return (
     <main>
       <Display />
